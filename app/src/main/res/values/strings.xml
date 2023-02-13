@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">App Room</string>
+    <string name="insertRecipe">Nova Receita</string>
+    <string name="inputId">Número da Receita</string>
+    <string name="inputName">Nome</string>
+    <string name="inputDesc">Descrição</string>
+    <string name="inputPreparationTIme">Tempo de Preparação (Minutos)</string>
+    <string name="confirmBtn">Inserir Receita</string>
+    <string name="cancelAddBtn">Cancelar</string>
+
+    <string name="previousActivityLabel">Voltar ao Anterior</string>
+    <string name="addRecipe">Adicionar Receita</string>
+    <string name="recipeName">Nome da Receita</string>
+    <string name="recipeDate">Data da Receita</string>
+
+
+    <string name="recipeDesc">Descrição</string>
+    <string name="recipePreparation">Tempo de Preparação</string>
+    <string name="recipeNumber">Número</string>
+    <string name="updateBtn">Atualizar</string>
+    <string name="deleteBtn">Apagar</string>
+</resources>
